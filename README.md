@@ -1,2 +1,3 @@
-# orAcle-Apex-Projects
-Projetos profissionais e ideias de aplicativos empresariais com o uso do Oracle APEX, solução low code para entrega de aplicativos modernos, escaláveis e seguros em Nuvem ou On Premise.
+# orAcle-Apex-SesFAPP
+Este projeto é uma versão didática e genérica baseada em uma solução real desenvolvida para automação de processos empresariais.
+O sistema foi recriado com dados fictícios para demonstrar meus conhecimentos em Oracle APEX, PL/SQL, HTML/CSS, JAVASCRIPT, design de UI e modelagem de dados.
