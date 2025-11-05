@@ -1,4 +1,4 @@
-# SEFA – Sistema Esforço Faturamento
+<h1 align="center">💼 SEFA – Sistema Esforço Faturamento</h1>
 
 <p align="center">
   <em>Versão didática baseada em uma solução real desenvolvida para automação de processos empresariais com foco em faturamento interno.</em>
