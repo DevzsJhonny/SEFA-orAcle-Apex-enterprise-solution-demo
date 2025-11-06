@@ -31,3 +31,10 @@
   <strong>Autor:</strong> Jhonny Silva<br>
   <em>Projeto de portfólio – Oracle APEX</em>
 </p>
+
+🎬 **Demonstração do sistema:**
+<p>primeira demonstração dos cadastros básicos</p>
+[Assista ao vídeo no YouTube](https://youtu.be/seu_link](https://youtu.be/K5nRztypUJE)
+<p>segunda demonstração dos lançamento de atividades do colaborador</p>
+[Assista ao vídeo no YouTube](https://youtu.be/seu_link](https://youtu.be/K5nRztypUJE)
+
