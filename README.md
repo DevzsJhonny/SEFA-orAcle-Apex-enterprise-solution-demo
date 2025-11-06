@@ -31,11 +31,12 @@ Fiz parte de uma equipe ágil composta por <strong>1 Scrum Master</strong>, <str
   <li>Interface responsiva e customizada</li>
 </ul>
 <br>
-🎬 <strong>Demonstração do sistema:<strong> <br>
-<p>primeira demonstração dos cadastros básicos:</p>
-[Assista ao vídeo no YouTube](https://youtu.be/K5nRztypUJE)<br><br>
-<p>segunda demonstração dos lançamento de atividades do colaborador:</p>
-[Assista ao vídeo no YouTube](https://youtu.be/9JARapSEQII)
+🎬 <strong>Demonstração do sistema:</strong>
+<br><br>
+<p>primeira demonstração dos cadastros básicos:
+[Assista ao vídeo no YouTube](https://youtu.be/K5nRztypUJE)</p>
+<p>segunda demonstração dos lançamento de atividades do colaborador:
+[Assista ao vídeo no YouTube](https://youtu.be/9JARapSEQII)</p>
 
 
 <hr>
